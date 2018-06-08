@@ -1,0 +1,14 @@
+@media (min-width:300px) and (max-width:1500px){
+    #curve{
+    display: none;
+    }
+    .img-food{
+    
+    left:50%;
+    top:-45px;    
+
+}
+
+}
+
+
